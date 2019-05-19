@@ -4,9 +4,9 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e(config('site_name'));?>-私人云</title>
-	<link rel="shortcut icon" href="//acidwits.ueuo.com/theme/favicon.ico">
+	<link rel="shortcut icon" href="//one.acidwits.xyz/view/nexmoe/theme/favicon.ico">
 	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
-	<link rel="stylesheet" href="//acidwits.ueuo.com/theme/style.css">
+	<link rel="stylesheet" href="//one.acidwits.xyz/view/nexmoe/theme/style.css">
 	<script src="//cdnjs.cloudflare.com/ajax/libs/mdui/0.4.1/js/mdui.min.js"></script>
 </head>
 <body class="mdui-theme-primary-blue-grey mdui-theme-accent-blue">

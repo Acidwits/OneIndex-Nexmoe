@@ -94,13 +94,13 @@ opacity: 1; /*结尾状态 透明度为1*/
 	float: left;
 	width: 30px;
 	height: 30px;
-	background: url(//acidwits.ueuo.com/theme/align-right.png);
+	background: url(//one.acidwits.xyz/view/nexmoe/theme/align-right.png);
 	background-size:100% 100%;
 	transition: .8s;
 }
 /* 图标动画icon */
 .icon:hover{
-	background: url(//acidwits.ueuo.com/theme/close.png);
+	background: url(//one.acidwits.xyz/view/nexmoe/theme/close.png);
 	background-size:100% 100%;
 	transform: rotate(360deg);
 	-webkit-transform: rotate(360deg);
